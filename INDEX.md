@@ -13,6 +13,7 @@
 
 ### tools
 
+- [20251227-mcp-connection-fix.md](notes/20251227-mcp-connection-fix.md) `kiro` `mcp` `connection` `troubleshooting`
 - [20251223-central-knowledge-base-sync.md](solutions/20251223-central-knowledge-base-sync.md) `kiro` `git` `同步` `知识管理`
 - [20251223-kiro-hook-auto-save-setup.md](solutions/20251223-kiro-hook-auto-save-setup.md) `kiro` `hook` `自动化` `知识管理`
 - [20251223-kiro-hook-troubleshooting.md](notes/20251223-kiro-hook-troubleshooting.md) `kiro` `hook` `排查` `调试`
